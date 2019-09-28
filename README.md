@@ -30,7 +30,7 @@ Steps to run the program
 3. Once the application is run, a set of instructions will be given.
 4. Follow the instructions for better experience.
 
-Steps to run the program
+Steps to run the Unit tests
 --------------------------
 1. Open the project 'ChessBoardChallenge' in an IDE such Eclipse, IntelliJ, etc.
 2. Right click on the /ChessBoradChallenge/src/test/TestRunner.java -> Run As -> Java Application
