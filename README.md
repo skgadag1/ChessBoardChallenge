@@ -61,42 +61,4 @@ Following are the instructions and guide lines to play chess using command line
 
 ***Note: This is game is designed according to rules and standards of real world Chess, so always try to make valid moves,
 	you will end up getting exceptions otherwise!
-  
-  Below is representation of chess board used in application, that understands the commands given based on above instructions.
-  In the below example given, 'move' is combination of 'Row no.'(3) and 'Col no.'(6)
-	ex: pawn: N2
-	    move:36
-    when the above move is made, the board would look like
 
-   		    1	      2	      3	      4	      5	      6	      7	      8	  
-
-		    Pawns Won []
-		    Player-1						[WHITE]
-	  	  -------------------------------------------------------------
-
-  1 		  R1	    N1	    B1	    Q	      K	      B2	    O 	    R2	  
-
-
-  2 		  x1	    x2	    x3	    x4	    x5	    x6	    x7	    x8	  
-
-
-  3 		  O	      *	      O	      *	      O	      N2	    O	      *	  
-
-
-  4 		  *	      O	      *	      O	      *	      O	      *	      O	  
-
-
-  5 		  O	      *	      O	      *	      O	      *	      O	      *	  
-
-
-  6 		  *	      O	      *	      O	      *	      O	      *	      O	  
-
-
-  7 		  y1	    y2	    y3	    y4	    y5	    y6	    y7	    y8	  
-
-
-  8	  	  r1	    n1	    b1	    q	      k	      b2	     n2	    r2	  
-
-		    -------------------------------------------------------------
-		    Player-2						[BLACK]
-		    Pawns Won []
