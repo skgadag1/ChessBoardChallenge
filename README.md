@@ -62,3 +62,10 @@ Following are the instructions and guide lines to play chess using command line
 ***Note: This is game is designed according to rules and standards of real world Chess, so always try to make valid moves,
 	you will end up getting exceptions otherwise!
 
+![alt text](https://raw.githubusercontent.com/skgadag1/ChessBoardChallenge/master/c001.PNG)
+![alt text](https://raw.githubusercontent.com/skgadag1/ChessBoardChallenge/master/c002.PNG)
+![alt text](https://raw.githubusercontent.com/skgadag1/ChessBoardChallenge/master/c003.PNG)
+![alt text](https://raw.githubusercontent.com/skgadag1/ChessBoardChallenge/master/c004.PNG)
+![alt text](https://raw.githubusercontent.com/skgadag1/ChessBoardChallenge/master/c005.PNG)
+
+
